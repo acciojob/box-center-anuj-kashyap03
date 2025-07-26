@@ -14,9 +14,10 @@ div {
 	transform:translate(-50%,-50%);
 	text-align:center;
 	
+	border:1px solid black;
+	
 }
 #t2{
-	border:1px solid black;
 	position:relative;
 }
 p{
