@@ -14,7 +14,7 @@ div {
 	transform:translate(-50%,-50%);
 	text-align:center;
 	
-	border:1px solid black;
+	border:2px solid black;
 	
 }
 #t2{
@@ -23,7 +23,6 @@ div {
 p{
 	margin:0;
 	position:absolute;
-	background-color:gray;
 	top:50%;
 	left:50%;
 	transform:translate(-50%,-50%)
